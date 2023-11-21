@@ -1,3 +1,3 @@
 # technology
-[DEMO LINK](https://ir-ra.github.io/Kickstarter-landing/)![]
+<a href="https://google.com.ua" target="_blank" title="Google">Google</a>
 
